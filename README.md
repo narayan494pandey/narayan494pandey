@@ -34,7 +34,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Jupyter Notebook](https://img.shields.io/docker/stars/jupyter/pyspark-notebook.svg)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=Jupyter-Notebook&logoColor=007ACC)
 <br/>
 
 <a href="https://github.com/narayan494pandey">
@@ -47,7 +47,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/narayan-pandey-534771168/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Narayan%Pandeyblue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/narayan-pandey-534771168/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Narayan%20Pandey-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:npandey722@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-npandey722@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
