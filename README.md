@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; B.TECH in Computer Science and Engineering from Techno India Collefe of Technology, Kolkata.
+- 🎓 &nbsp; B.TECH in Computer Science and Engineering from Techno India College of Technology, Kolkata.
 - 💼 &nbsp; I am Fresher and want to work as Front End Developer .
 - 🌱 &nbsp; Learning more about ReactJs, Spring-Boot and Data Science.
 
