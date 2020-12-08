@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.TECH in Computer Science and Engineering from Techno India College of Technology, Kolkata.
-- 💼 &nbsp; I am Fresher and want to work as Front End Developer .
+- 💼 &nbsp; I am Front End Developer with React.JS.
 - 💼 &nbsp; I have done lots of Clone of other APP in React.JS 
 - 🌱 &nbsp; Learning more about Hibernate,JPA and Spring-Boot.
 
