@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.TECH in Computer Science and Engineering from Techno India College of Technology, Kolkata.
-- 💼 &nbsp; I am Front End Developer with React.JS.
-- 💼 &nbsp; I have done lots of Clone of other APP in React.JS 
+- 💼 &nbsp; I am Junior Full stack developer at Goprac.com
+- 💼 &nbsp; I have done lots of work  in  React.JS and knockout.js.
 - 🌱 &nbsp; Learning more about Hibernate,JPA and Spring-Boot.
 
 
@@ -25,12 +25,14 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Knockout](https://img.shields.io/badge/-Knockout-333333?style=flat&logo=knockout)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
