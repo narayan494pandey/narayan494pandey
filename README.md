@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.TECH in Computer Science and Engineering from Techno India College of Technology, Kolkata.
 - 💼 &nbsp; I am Full stack developer at Goprac.com
-- 💼 &nbsp; I have done lots of work  in  React.JS and knockout.js.
+- 💼 &nbsp; I have experience in working with React.JS and knockout.js , MySQL, Node.JS.
 - 🌱 &nbsp; Learning more about Hibernate,JPA and Spring-Boot.
 
 
